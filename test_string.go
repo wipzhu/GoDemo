@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	strings "strings"
+	"strings"
 )
 
 func main() {
